@@ -1,0 +1,8 @@
+#!/bin/sh
+#
+
+echo "STUB: Starting Up the Test Application"
+
+python -c "print(\"HELLO WORLD\");"
+
+exit $?

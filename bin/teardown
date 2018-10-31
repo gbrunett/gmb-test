@@ -1,0 +1,6 @@
+#!/bin/sh
+#
+
+echo "STUB: Stopping the Test Application"
+
+exit 0
